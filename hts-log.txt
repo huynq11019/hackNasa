@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 12 Sep 2021 02:42:52 at https://webkit-admin-template.multipurposethemes.com/bs5/demo7/contact_userlist_grid.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://webkit-admin-template.multipurposethemes.com/bs5/demo7/contact_userlist_grid.html -O1 "E:\newWork\hackNasa" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:46:15	Error: 	"Not Found" (404) at link https://webkit-admin-template.multipurposethemes.com/bs5/demo7/www.youtube.com/watch?v=sK7riqg2mr4 (from https://webkit-admin-template.multipurposethemes.com/bs5/demo7/sample_lightbox.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 45 seconds : 690 links scanned, 688 files written (88843109 bytes overall) [71833674 bytes received at 319260 bytes/sec], 22839528 bytes transferred using HTTP compression in 337 files, ratio 24%, 115.0 requests per connection
+(1 errors, 0 warnings, 0 messages)
